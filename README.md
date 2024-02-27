@@ -3,5 +3,7 @@ Repositório criado para competição do [Kaggle](https://www.kaggle.com/competi
 
 Histórico dos resultados: 
 
+<img src="https://github.com/luizantoniont/HousePrices/blob/main/score.jpg" />
+
 
 
